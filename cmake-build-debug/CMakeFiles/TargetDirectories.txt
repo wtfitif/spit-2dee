@@ -1,0 +1,8 @@
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/demo/CMakeFiles/demo.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/demo/CMakeFiles/edit_cache.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/demo/CMakeFiles/rebuild_cache.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/engine/CMakeFiles/spit2d_engine.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/engine/CMakeFiles/edit_cache.dir
+/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/engine/CMakeFiles/rebuild_cache.dir

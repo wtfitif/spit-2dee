@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/cmake_install.cmake",
+		"/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/demo/cmake_install.cmake",
+		"/home/faiskada/CLionProjects/spit-2dee/cmake-build-debug/engine/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
